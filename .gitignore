@@ -16,3 +16,4 @@ build/
 # harness runtime data
 .harness/
 sessions/
+.autonomous/
